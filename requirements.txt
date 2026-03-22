@@ -1,0 +1,7 @@
+# Core requirements
+requests
+telethon
+python-dotenv
+cryptography
+pandas
+pillow
