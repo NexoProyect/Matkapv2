@@ -41,7 +41,7 @@ Herramienta avanzada para análisis, captura y procesamiento de mensajes de bots
 ## 🖥️ Instalación
 
 ```bash
-git clone https://github.com/tuusuario/matkap-enhanced.git
+git clone https://github.com/NexoProyect/Matkapv2.git
 cd matkap-enhanced
 pip install -r requirements.txt
 ```
